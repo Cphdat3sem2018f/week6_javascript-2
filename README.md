@@ -17,14 +17,6 @@ An introduction to Ajax and JSON, via fetch and how to use it with a REST-API Ba
 ### Thursday - Single Page Applications
 An introduction to the Single Page Architecture, and how to write Single Page Applications with plain JavaScript
 
-
-## Learning objectives
-- Learn the fundamentals of modern JavaScript, including features from ES6.
-- Learn how to create modern pages than can update the DOM, with no need to refresh the whole page, using plain JavaScript DOM manipulationn
-- Get a basic understanding of the term Single Page Application, and how it differs from server-side rendered app's as introduced on 2. Semester.
-- Get the necessary skills to, use a modern JavaScript SPA-library like REACT.
-
-
 ## Business competences
 
 JavaScript is one of the most demanded programming skills (ref: [it.jobindex.dk](https://it.jobindex.dk/jobsoegning?q=javascript&supid=1) ).
