@@ -50,7 +50,7 @@ If you wan't a more detailed description, just search for the similar article fr
 ### Day-2 (AJAX and JSON)
 - Skim this Wikipedia article (it has a large section about drawbacks (relevant) and no section about Pros (problematic) [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)
 - [Same-origin Policy](https://en.wikipedia.org/wiki/Same-origin_policy)
-- Green, Read this [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing) --- RED, Read this[CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- Green, read this --> [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing) ---> RED, Read this [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 - ONLY skim this [article](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch), and use it as a reference for fetch
 
 [Slides](https://docs.google.com/presentation/d/1iUnsncsUWj3lU7FdR9MnuC_jb4JzrlByDDYB7ieStwM/edit?usp=sharing)
