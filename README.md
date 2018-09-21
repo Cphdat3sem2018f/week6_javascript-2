@@ -8,14 +8,16 @@ You can do with NetBeans only for this period, but I (very much) suggest you ins
 - Install [Postman](https://www.getpostman.com/) (if not already done) before wednesdays lecture (Ajax)
 
 
-### Tuesday - JavaScript continued
+### Tuesday - JavaScript/DOM continued
 User defined Callbacks, this in JavaScript, Constructor Functions, ES6 and how to use it, closures, var and hoisting.
 
-### Wednesday - Ajax, JSON, fetch and DOM continued
+### Wednesday - Ajax, JSON, fetch Same-origin Policy and CORS
 An introduction to Ajax and JSON, via fetch and how to use it with a REST-API Backend
 
 ### Thursday - Single Page Applications
-An introduction to the Single Page Architecture, and how to write Single Page Applications with plain JavaScript
+- An introduction to the Single Page Architecture
+- How to write Single Page Applications with plain JavaScript
+- How to deploy SPA's on separate servers using CORS
 
 ## Business competences
 
@@ -24,10 +26,10 @@ JavaScript is one of the most demanded programming skills (ref: [it.jobindex.dk]
 JavaScript this semester will provide students with the background to join modern front-end teams, using JS and supplementing JS frameworks/libraries.
 
 ## Exercises 
-- Tuesday: [JavaScript Continiued](https://docs.google.com/document/d/1VX3t-DF_ONuqp2hSrBuKc6WHlROdXzcMuFCtsT7Foqw/edit?usp=sharing)
-- Wednesday: [Ajax, fetch and DOM](https://docs.google.com/document/d/1gKsd2zqXzV9Bc67WID8FkZf2Vnx4PymbiRm-dt7GU2A/edit?usp=sharing)
-- Thursday: [SPA, with Webpack and Babel](https://docs.google.com/document/d/1aGX2saNOCP00WJUECc_27CnQyGYeF3dRgTptHijzu40/edit?usp=sharing) 
-- Friday:  [Friday StudyPoint Exercises](https://docs.google.com/document/d/1vCR2smc4ZrslG35ak-fwvbecqn2LTeevB9Nkdk0ZjXE/edit?usp=sharing)
+- Tuesday: [JavaScript Continiued](#)
+- Wednesday: [Ajax, fetch and DOM](#)
+- Thursday: [SPA, with Webpack and Babel + deployment]() 
+- Friday:  [Friday StudyPoint Exercises](#)
 
 
 ## Resources: 
