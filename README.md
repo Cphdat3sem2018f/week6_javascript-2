@@ -12,7 +12,7 @@ You can do with NetBeans only for this period, but I (very much) suggest you ins
 User defined Callbacks, this in JavaScript, Constructor Functions, ES6 and how to use it, closures, var and hoisting.
 
 ### Wednesday - Ajax, JSON, fetch Same-origin Policy and CORS
-An introduction to Ajax and JSON, via fetch and how to use it with a REST-API Backend
+Ajax, JSON, fetch Same-origin Policy, CORS and how to use it with a REST-API Backend
 
 ### Thursday - Single Page Applications
 - An introduction to the Single Page Architecture
@@ -47,7 +47,7 @@ If you wan't a more detailed description, just search for the similar article fr
 - [JavaScript closures (yellow/red)](https://www.w3schools.com/js/js_function_closures.asp)
 
 
-### Day-2 (AJAX and JSON)
+### Day-2 (AJAX, Same-origin Policy and CORS)
 - Skim this Wikipedia article (it has a large section about drawbacks (relevant) and no section about Pros (problematic) [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)
 - Green, read this --> [Same-origin Policy](https://en.wikipedia.org/wiki/Same-origin_policy) ---> Read read this [same-origin-policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
 - Green, read this --> [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing) ---> RED, read this [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
