@@ -4,8 +4,8 @@
 ## Before the start of this period you should:
 You can do with NetBeans only for this period, but I (very much) suggest you install node and a new JavaScript editor, to prepare yourself for period 3 (and make this periods JavaScript a bit more fun/realistic)
 - Install Node (important, install the LTS-version): https://nodejs.org/en/download/ 
-- Install a new editor/IDE for JavaScript development. Thomas prefers Webstorm, I prefer, and will be using, Visual Studio Code: https://code.visualstudio.com/download 
-- Install [Postman](https://www.getpostman.com/) before wednesdays lecture (Ajax)
+- Install a new editor/IDE for JavaScript development, we suggest Visual Studio Code: https://code.visualstudio.com/download 
+- Install [Postman](https://www.getpostman.com/) (if not already done) before wednesdays lecture (Ajax)
 
 
 ### Tuesday - JavaScript continued
