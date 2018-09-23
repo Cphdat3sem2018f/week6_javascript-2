@@ -26,8 +26,8 @@ JavaScript is one of the most demanded programming skills (ref: [it.jobindex.dk]
 JavaScript this semester will provide students with the background to join modern front-end teams, using JS and supplementing JS frameworks/libraries.
 
 ## Exercises 
-- Tuesday: [JavaScript Continiued](#)
-- Wednesday: [Ajax, fetch and DOM](#)
+- Tuesday: [JavaScript2 Exercises Day 1](https://docs.google.com/document/d/1vl8J-PUiFIzUt6jCE9gGpiw5XvOW1L3FeouTiWemwt8/edit?usp=sharing)
+- Wednesday: [Ajax, fetch and DOM](https://docs.google.com/document/d/1PmMnypoxd2LrhtiYp7EK02XKvWrhQimTUvVdYVRx_Ps/edit?usp=sharing)
 - Thursday: [SPA, with Webpack and Babel + deployment]() 
 - Friday:  [Friday StudyPoint Exercises](#)
 
