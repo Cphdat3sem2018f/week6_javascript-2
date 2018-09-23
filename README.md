@@ -28,8 +28,8 @@ JavaScript this semester will provide students with the background to join moder
 ## Exercises 
 - Tuesday: [JavaScript2 Exercises Day 1](https://docs.google.com/document/d/1vl8J-PUiFIzUt6jCE9gGpiw5XvOW1L3FeouTiWemwt8/edit?usp=sharing)
 - Wednesday: [Ajax, fetch and DOM](https://docs.google.com/document/d/1PmMnypoxd2LrhtiYp7EK02XKvWrhQimTUvVdYVRx_Ps/edit?usp=sharing)
-- Thursday: [SPA, with Webpack and Babel + deployment]() 
-- Friday:  [Friday StudyPoint Exercises](#)
+- Thursday: SPA, with Webpack and Babel + deployment TBD
+- Friday:  Friday StudyPoint Exercises TBD
 
 
 ## Resources: 
