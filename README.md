@@ -54,7 +54,6 @@ If you wan't a more detailed description, just search for the similar article fr
 - GREEN, read this --> [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing) ---- RED, read this [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 - ONLY skim this [article](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch), and use it as a reference for fetch
 
-
 ### Day-3 (Single Page Applications)
 TBD
 
