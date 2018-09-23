@@ -49,6 +49,7 @@ If you wan't a more detailed description, just search for the similar article fr
 
 ### Day-2 (AJAX, Same-origin Policy and CORS)
 - Skim this Wikipedia article (it has a large section about drawbacks (relevant) and no section about Pros (problematic) [Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)
+- Read this [article](https://docs.google.com/document/d/1hF9P65v_AJKCjol_gFkm3oZ1eVTuOKc15V6pcb3iFa8/edit?usp=sharing) about how to use fetch with promises, and how to handle error-responses
 - GREEN, read this --> [Same-origin Policy](https://en.wikipedia.org/wiki/Same-origin_policy) ---- RED read this [same-origin-policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
 - GREEN, read this --> [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing) ---- RED, read this [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 - ONLY skim this [article](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch), and use it as a reference for fetch
