@@ -1,2 +1,2 @@
-# JavaScript - A Class
+# JavaScript2 - A Class
 
