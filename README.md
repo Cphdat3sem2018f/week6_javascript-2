@@ -55,5 +55,5 @@ If you wan't a more detailed description, just search for the similar article fr
 - ONLY skim this [article](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch), and use it as a reference for fetch
 
 ### Day-3 (Single Page Applications)
-Watch this video about [Single Page Applications](https://www.youtube.com/watch?v=F_BYg2QGsC0)
+Watch this video about [Single Page Applications](https://www.youtube.com/watch?v=F_BYg2QGsC0) (Whenever he uses the term MPA (multipage application, think WEB as you did it on 2. semester)
 
