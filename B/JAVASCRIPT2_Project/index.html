@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<title>JAVASCRIPT EXAMPLES</title>
+		<meta charset="UTF-8">
+		<script src="AJAX.js"></script>
+
+	</head>
+	<body>
+
+		<h1 id="topHeading" onclick="console.log('InlineEventHandlerScope: ' + this);">JAVASCRIPT EXAMPLES</h1>
+
+		<script>
+			const globalScope = this;
+			console.log("GlobalScope: " + this);
+
+			const regularFunctionScope = function () { return this; };
+			console.log("RegularFunctionScope: " + regularFunctionScope());
+
+			const arrowFunctionScope = () => { return this; };
+			console.log("ArrowFunctionScope: " + arrowFunctionScope());
+
+			document.getElementById("topHeading").addEventListener("click", function(){ console.log('EventHandlerScope: ' + this); });
+		</script>
+
+	</body>
+</html>
