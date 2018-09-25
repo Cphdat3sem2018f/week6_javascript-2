@@ -28,7 +28,7 @@ JavaScript this semester will provide students with the background to join moder
 ## Exercises 
 - Tuesday: [JavaScript2 Exercises Day 1](https://docs.google.com/document/d/1vl8J-PUiFIzUt6jCE9gGpiw5XvOW1L3FeouTiWemwt8/edit?usp=sharing)
 - Wednesday: [Ajax, fetch and DOM](https://docs.google.com/document/d/1PmMnypoxd2LrhtiYp7EK02XKvWrhQimTUvVdYVRx_Ps/edit?usp=sharing)
-- Thursday: SPA, with Webpack and Babel + deployment TBD
+- Thursday: CORS and SPA TBD
 - Friday:  [Friday StudyPoint Exercises](https://docs.google.com/document/d/1wAK0vmy7jJ_GpYX2vgtahpdxOUF13vjC_ABqSDUo7gM/edit?usp=sharing)
 
 
@@ -55,5 +55,5 @@ If you wan't a more detailed description, just search for the similar article fr
 - ONLY skim this [article](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch), and use it as a reference for fetch
 
 ### Day-3 (Single Page Applications)
-TBD
+Watch this video about [Single Page Applications](https://www.youtube.com/watch?v=F_BYg2QGsC0)
 
