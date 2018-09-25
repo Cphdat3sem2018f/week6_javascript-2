@@ -2,7 +2,7 @@
 
 [JavaScript2 Project](JAVASCRIPT_Project)  
 
-[JavaScript2 LearningObjectives & Plan](JAVASCRIPT_LearningObjectives&Plan.pdf)  
-[JavaScript2 Slides](JAVASCRIPT_Slides.pdf)  
-[JavaScript2 Notes](JAVASCRIPT_Notes.pdf)  
+[JavaScript2 LearningObjectives & Plan](JAVASCRIPT2_LearningObjectives&Plan.pdf)  
+[JavaScript2 Slides](JAVASCRIPT2_Slides.pdf)  
+[JavaScript2 Notes](JAVASCRIPT2_Notes.pdf)  
 
