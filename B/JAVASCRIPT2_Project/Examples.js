@@ -187,3 +187,33 @@ const person3 = { name:"Stephan" };
 const greeting3 = function(place){ return "welcome " + this.name + ", to " + place; };
 const person3Greeting = greeting3.apply(person3, ["right here"]);
 console.log(person3Greeting);
+
+//ARRAY FILTER CALLBACK FUNCTION
+const names1 = ["Franco", "Alberto", "Miguel", "Jose", "Fernando", "Pepe", "Manuel"];
+const names2 = ["Franco", "Alberto", "Miguel", "Jose", "Fernando", "Pepe"];
+function myFilter(array, callback)
+{
+	let arrayFiltered = [];
+	for(let index = 0; index < array.length; index++)
+	{
+		if(callback(array[index],index,array))
+		{
+			arrayFiltered.push(array[index]);
+		}
+	}
+	return arrayFiltered;
+}
+const filter1 = (element, index, array) => {
+	if (element.length > 4 || index % 2 == 0 || array.length % 2 == 0)
+	{
+		return true;
+	}
+	else
+	{
+		return false;
+	}
+};
+console.log(myFilter(names1, filter1));
+console.log(names1.filter(filter1));
+console.log(myFilter(names2, filter1));
+console.log(names2.filter(filter1));
