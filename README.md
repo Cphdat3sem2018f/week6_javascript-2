@@ -28,7 +28,7 @@ JavaScript this semester will provide students with the background to join moder
 ## Exercises 
 - Tuesday: [JavaScript2 Exercises Day 1](https://docs.google.com/document/d/1vl8J-PUiFIzUt6jCE9gGpiw5XvOW1L3FeouTiWemwt8/edit?usp=sharing)
 - Wednesday: [Ajax, fetch and DOM](https://docs.google.com/document/d/1PmMnypoxd2LrhtiYp7EK02XKvWrhQimTUvVdYVRx_Ps/edit?usp=sharing)
-- Thursday: CORS and SPA TBD
+- Thursday: [CORS and Hosting](https://docs.google.com/document/d/1SldeRRWYiwtqt-TtjjKB09Hk42BASiv-hyoWhKBadpA/edit?usp=sharing)
 - Friday:  [Friday StudyPoint Exercises](https://docs.google.com/document/d/1wAK0vmy7jJ_GpYX2vgtahpdxOUF13vjC_ABqSDUo7gM/edit?usp=sharing)
 
 
