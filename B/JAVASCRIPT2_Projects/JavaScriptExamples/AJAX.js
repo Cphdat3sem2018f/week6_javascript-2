@@ -96,8 +96,8 @@ fetch(url1, options1)
 	});
 */
 
-//FETCH JSON FINAL
-const fetchJson = async (url, options) => {
+//FETCH JSON ASYNC
+const fetchJsonAsync = async (url, options) => {
 	try {
 		const response = await fetch(url, options);
 		const json = await response.json();
@@ -118,3 +118,74 @@ fetchJson(url2, options2)
 .then((resolve) => console.log(resolve.json))
 .catch((reject) => console.log(reject.json));
 */
+
+//FETCH JSON PROMISE
+const fetchJsonPromise = (requestURL, requestMethod, requestBody) => {	
+	const options = {
+	method: requestMethod,
+	headers: {
+		'Accept': 'application/json',
+		'Content-Type': 'application/json'
+	},
+	body: JSON.stringify(requestBody)};
+	
+	return fetch(requestURL, options)
+	.then(response => { return response.json(); })
+	.catch(error => { return Promise.reject({ status: "Network error", msg: "Unable to process request" }); });
+}
+//FETCH JSON PROMISE - GET REJECTED
+fetchJsonPromise("", "GET")
+.then((json) => {
+	if(json.status)
+	{
+		console.log("RESOLVED NOTOK: " + JSON.stringify(json));
+	}
+	else
+	{
+		console.log("RESOLVED OK: " + JSON.stringify(json));
+	}
+})
+.catch((json) => { console.log("REJECTED: " + JSON.stringify(json)); });
+		
+//FETCH JSON PROMISE - GET RESOLVED NOTOK
+fetchJsonPromise("http://localhost:3333/api/doesnotexist", "GET")
+.then((json) => {
+	if(json.status)
+	{
+		console.log("RESOLVED NOTOK: " + JSON.stringify(json));
+	}
+	else
+	{
+		console.log("RESOLVED OK: " + JSON.stringify(json));
+	}
+})
+.catch((json) => { console.log("REJECTED: " + JSON.stringify(json)); });
+
+//FETCH JSON PROMISE - GET RESOLVED OK
+fetchJsonPromise("http://localhost:3333/api/users", "GET")
+.then((json) => {
+	if(json.status)
+	{
+		console.log("RESOLVED NOTOK: " + JSON.stringify(json));
+	}
+	else
+	{
+		console.log("RESOLVED OK: " + JSON.stringify(json));
+	}
+})
+.catch((json) => { console.log("REJECTED: " + JSON.stringify(json)); });
+
+//FETCH JSON PROMISE - POST RESOLVED OK
+const user = { age: 34, name: "Anton Benson", gender: "male", email: "ab@ab.com" };
+fetchJsonPromise("http://localhost:3333/api/users", "POST", user)
+.then((json) => {
+	if(json.status)
+	{
+		console.log("RESOLVED NOTOK: " + JSON.stringify(json));
+	}
+	else
+	{
+		console.log("RESOLVED OK: " + JSON.stringify(json));
+	}
+})
+.catch((json) => { console.log("REJECTED: " + JSON.stringify(json)); });
